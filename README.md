@@ -1,5 +1,6 @@
 ## Lygia example for ogl
 
+Integration of [lygia](https://github.com/patriciogonzalezvivo/lygia) with [ogl](https://github.com/oframe/ogl).
 Clone the repo and run
 
 ```
